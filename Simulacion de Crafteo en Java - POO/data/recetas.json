@@ -1,0 +1,28 @@
+[
+  {
+    "producto": "antorcha",
+    "tiempo": 6,
+    "cantidad": 3,
+    "ingredientes": [
+      { "nombre": "madera", "cantidad": 2 },
+      { "nombre": "carbon", "cantidad": 1 }
+    ]
+  },
+  {
+    "producto": "espada",
+    "tiempo": 10,
+    "cantidad": 1,
+    "ingredientes": [
+      { "nombre": "hierro", "cantidad": 3 },
+      { "nombre": "baston", "cantidad": 10 }
+    ]
+  },
+  {
+    "producto": "baston",
+    "tiempo": 4,
+    "cantidad": 1,
+    "ingredientes": [
+      { "nombre": "madera", "cantidad": 2 }
+    ]
+  }
+]
