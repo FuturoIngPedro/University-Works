@@ -93,18 +93,11 @@ mvn clean compile exec:java -Dexec.mainClass="crafteo.main.Main"
 
 ## 🧪 Tests
 
-Los tests se encuentran en `src/test/java/`. Para ejecutarlos:
+Aún no se encuentran disponibles. Coming soon...
 
 ```bash
 mvn test
 ```
-
----
-
-## 👨‍💻 Integrantes
-
-* Pedro Melissari
-* \[Agregá acá los nombres de tus compañeros]
 
 ---
 
