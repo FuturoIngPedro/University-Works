@@ -95,10 +95,6 @@ mvn clean compile exec:java -Dexec.mainClass="crafteo.main.Main"
 
 Aún no se encuentran disponibles. Coming soon...
 
-```bash
-mvn test
-```
-
 ---
 
 ## 📘 Licencia
