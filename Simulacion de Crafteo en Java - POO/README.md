@@ -25,7 +25,6 @@ simulador\_crafteo/
 ├── data/               → Archivos JSON con recetas e inventario
 ├── pom.xml             → Archivo de configuración Maven
 ├── README.md           → Este archivo
-└── .gitignore          → Exclusiones para Git
 
 ````
 
