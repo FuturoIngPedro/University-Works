@@ -99,5 +99,3 @@ Aún no se encuentran disponibles. Coming soon...
 ## 📘 Licencia
 
 Uso académico. Proyecto educativo sin fines de lucro.
-
-```
