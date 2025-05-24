@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🛠️ Simulador de Crafteo
 
 Este proyecto implementa un sistema de crafteo inspirado en mecánicas de videojuegos. Permite gestionar recetas, descomponer ingredientes, verificar inventario, realizar crafteos y registrar historial de acciones.
